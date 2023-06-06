@@ -1,0 +1,23 @@
+{
+  "name": "react-native-standby",
+  "version": "1.0.0",
+  "description": "StandBy Displays Glanceable Information While iPhone Is Charging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramazanarslan/react-native-standby.git"
+  },
+  "keywords": [
+    "react-native",
+    "standby"
+  ],
+  "author": "Ramazan Arslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramazanarslan/react-native-standby/issues"
+  },
+  "homepage": "https://github.com/ramazanarslan/react-native-standby#readme"
+}
