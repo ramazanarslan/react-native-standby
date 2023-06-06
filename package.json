@@ -1,6 +1,6 @@
 {
   "name": "react-native-standby",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "StandBy Displays Glanceable Information While iPhone Is Charging",
   "main": "index.js",
   "scripts": {
