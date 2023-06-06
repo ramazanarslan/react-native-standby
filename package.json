@@ -12,7 +12,9 @@
   },
   "keywords": [
     "react-native",
-    "standby"
+    "standby",
+    "iOS17",
+    "stand-by"
   ],
   "author": "Ramazan Arslan",
   "license": "ISC",
